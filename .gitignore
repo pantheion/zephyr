@@ -1,3 +1,4 @@
 vendor/
 notes.txt
 .env
+composer.lock
